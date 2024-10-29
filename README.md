@@ -6,8 +6,8 @@ This project is a Streamlit application that performs retrieval-augmented genera
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/OnurAsimIlhan/text-summarizer.git
-    cd text-summarizer
+    git clone https://github.com/OnurAsimIlhan/rag-QA-with-Groq-LLama.git
+    cd rag-QA-with-Groq-LLama
     ```
 
 2. Create a virtual environment and activate it:
@@ -27,7 +27,7 @@ This project is a Streamlit application that performs retrieval-augmented genera
     ```
 4. Run Streamlit:
    ```sh
-    streamlit run app.py
+    streamlit run main.py
     ```
 
 ## Features
